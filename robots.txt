@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omparde.github.io/sitemap.html.gz
+Sitemap: https://omparde.github.io/app/sitemap.html.gz
+Sitemap: https://omparde.github.io/assets/sitemap.html.gz
+Sitemap: https://omparde.github.io/css/sitemap.html.gz
+Sitemap: https://omparde.github.io/includes/sitemap.html.gz
+Sitemap: https://omparde.github.io/item/sitemap.html.gz
+Sitemap: https://omparde.github.io/src/sitemap.html.gz
